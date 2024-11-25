@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Exercices\\Tests\\CalculatorTest::testMultiply":8,"CalculatorTest::testMultiply":8,"App\\Tests\\CalculatorTest::testMultiply":8},"times":{"Exercices\\Tests\\CalculatorTest::testMultiply":0.854,"CalculatorTest::testMultiply":0.017,"App\\Tests\\CalculatorTest::testMultiply":0.017}}
